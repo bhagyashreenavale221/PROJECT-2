@@ -1,0 +1,177 @@
+*{
+ margin:0;
+}
+.nav-logo{
+    padding: 0px;
+    margin: 0px;
+}
+#nav-links{
+   display: flex;
+}
+#nav-links div{
+    align-items: center;
+    margin: 20px;
+    padding: 20px;
+}
+.ContentBox{
+    padding: 100px 60px;
+}
+.ContentBox h1{
+  font-style: italic;
+  border: 1px salmon;
+}
+.ContentBox p{
+    position: absolute;
+    font-style: italic;
+    top: 250px;
+    left: 300px;
+    color:rgb(142, 133, 133)
+    
+}
+.text{
+    font-style: normal;
+}
+.text h4{
+    font-size: x-large;
+    font-style:italic;
+    padding: 20px;
+}
+.text2{
+ padding: 10px;
+ 
+}
+.msg{
+    color: rgb(142, 133, 133);
+    font-size: small;
+    padding: 10px;
+}
+.icon{ 
+    font-size: 1.1em;
+    margin-right:10px;
+    color: black;
+}
+.glass{
+    position: absolute;
+    top: 400px;
+    right: 0px;
+    left: 600px;
+    
+}
+.sweety h4{
+    font-size: x-large;
+    font-style: italic;
+    padding: 10px;
+    
+}
+.sweety2{
+    padding: 10px;
+}
+
+.abhi{
+    position:relative; 
+    top:0px;
+    right:20px;
+    left:600px;
+    width: 50%;
+    
+}
+.swara2{
+    position: relative;
+    top:0px;
+    right:20px;
+    left:600px;
+    width: 180%;
+}
+.swara3{
+    padding: 10px;
+}
+.swara h4{
+    font-size: x-large;
+    font-style: italic;
+    padding: 20px;
+}
+.doll{
+    color: rgb(151, 90, 90);
+   font-style: italic;
+   padding:40px
+   
+}
+.princes{
+    padding-left: 3%;
+    font-size: larger;
+    color: grey;
+    font-style: italic;
+}
+.prince{
+    padding: 20px;
+    font-size: larger;
+    color: grey;
+    font-style: italic;
+}
+.abhi2{
+    position:absolute;
+    top:0px;
+    right: 10px;
+    left:650px;
+    margin: auto;
+    overflow: auto;
+    
+}
+.cat{
+    font-size: large;
+    padding:10px;
+}
+.cat p{
+    position: absolute;
+    top: 610px;
+    right: 100px;
+    font-size: small;
+}
+.A221{
+    position: absolute;
+    top:780px;
+}
+.navale221{
+    position: absolute;
+    top: 920px;
+    right: 20px;
+}
+.top{
+    position: absolute;
+    top: 970px;
+    right: 210px;
+    color: gray;
+    font-size: small;
+}
+.bottom{
+    font-size: small;
+    color: aqua;
+}
+#bottom2{
+    display: flex;
+    gap:50px;
+    align-content: center;
+}
+#bottom2 div{
+    position: relative;
+    top: 0px;
+    left: 280px;
+    align-items: center;
+    margin: 20px;
+    font-size: small;
+    color: aqua;
+}
+h3{
+    padding: 10px; 
+}
+form{
+    padding: 10px;
+}
+label{
+    padding: 10px;
+}
+
+
+
+
+
